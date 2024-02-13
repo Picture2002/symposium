@@ -90,6 +90,14 @@
   font-size: 30px;
 
 }
+.nav-links h3{
+color:#ffff;
+
+  display: inline-block;
+  text-align: center;
+  margin-left:4%
+}
+
 /* container 1 over */
 
 nav{
