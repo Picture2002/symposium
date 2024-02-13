@@ -90,6 +90,11 @@
   font-size: 30px;
 
 }
+.nav-links h3{
+display: inline-block;
+text-align:center;
+dont-size:20px;
+}
 
 
 /* container 1 over */
